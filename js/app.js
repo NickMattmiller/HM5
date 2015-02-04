@@ -100,7 +100,7 @@
         createdOn: 1397490980837
       }, {
         stars: 1,
-        body: "Don't waste your rubles!",
+        body: "Don't waste your rubles!!!!",
         author: "nat@example.org",
         createdOn: 1397490980837
       }]
